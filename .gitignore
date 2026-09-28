@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Virtual environment
+venv/
+
+# Environment variables and API keys
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated vector database
+data/processed/
+
+# IDE files
+.vscode/
